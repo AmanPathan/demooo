@@ -12,6 +12,7 @@ public:
 int main()
 {
     cout << A::a;
+    cout<<"Ganesh"<<endl;
     A::fun();
     return 0;
 }
