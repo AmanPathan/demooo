@@ -6,6 +6,10 @@ class A{
     static void fun(){
         cout<<"Class A Method\n";
     }
+    void run(){
+        cout<<"Run";
+    }
+
 };
 int A::a = 6;
 int main(){
